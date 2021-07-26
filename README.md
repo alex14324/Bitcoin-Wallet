@@ -8,10 +8,7 @@ Bitcoin Wallet is the cold wallet, it is the safest, and open source, for send a
 [![Releases](https://img.shields.io/github/release/hoanghiephui/Bitcoin-Wallet.svg)](https://github.com/hoanghiephui/Bitcoin-Wallet/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-# Bitcoin Wallet available at Google Play
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-      alt="Download from Google Play"
-      height="80">]()
+
       
 # Phones
 
